@@ -1,3 +1,5 @@
+# Hangman:
+# Author: Kaushal
 import random
 
 
